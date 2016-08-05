@@ -232,7 +232,7 @@ aside {
 }
 
 #room{
-    background-image: url(../img/room_background.png);
+    background-image: url(../img/room/room_background.png);
     background-repeat: repeat;
 }
 
@@ -508,7 +508,7 @@ header {
 }
 .slider_img img {
     width: 100%;
-    min-height: 100%;
+
 }
 .slider_img .item {
     position: absolute;
